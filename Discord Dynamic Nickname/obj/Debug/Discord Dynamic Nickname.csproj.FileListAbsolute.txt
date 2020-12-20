@@ -1,0 +1,17 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Discord Dynamic Nickname.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Discord Dynamic Nickname.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Discord Dynamic Nickname.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord_Dynamic_Nickname.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Anarchy.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Discord Dynamic Nickname\Discord Dynamic Nickname\obj\Debug\Discord Dynamic Nickname.csproj.CopyComplete
